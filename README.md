@@ -19,7 +19,6 @@ Este repositório serve como um portfólio para demonstrar minhas habilidades em
 1. Clone este repositório:
 ```
 git clone https://github.com/MarcioSchatt/WebPages.git
-
 ```
 2. Navegue até a pasta do projeto desejado.
 3. Abra o arquivo index.html no navegador ou utilize um servidor local.
